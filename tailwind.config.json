@@ -4,6 +4,19 @@
       "value": "8px",
       "type": "spacing"
     },
+    "Spacing": {
+      "between-text": {
+        "value": "8px",
+        "type": "spacing",
+        "description": "Text is any copy that isn’t using a display style. It’s built into our text styles, but you’ll need to add it in when they’re not in the same block of content."
+      },
+      "image-bottom": {
+        "value": "8px",
+        "type": "spacing",
+        "description": "Our assets contain built in padding, but sometimes require a little bit of extra breathing room."
+      }
+    },
+
     "Gradient 1": {
       "value": "linear-gradient(135deg, #ffa7a7 0%, #a30cb5 56.25%, #00173a 100%)",
       "type": "color"
