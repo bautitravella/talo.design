@@ -1,0 +1,14 @@
+{
+  "global": {
+    "between-text": {
+      "value": "8px",
+      "type": "spacing"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
